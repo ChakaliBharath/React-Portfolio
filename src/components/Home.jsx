@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import pdf from "../pdf/BHARATH.CV.pdf";
-import hero from "./Data/hero.json";
+import hero from "./data/hero.json";
 import Typed from "typed.js";
 
 const Home = () => {
